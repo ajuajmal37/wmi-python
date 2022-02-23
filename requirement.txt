@@ -1,0 +1,4 @@
+cffi==1.15.0
+clr-loader==0.1.7
+pycparser==2.21
+pythonnet @ git+https://github.com/pythonnet/pythonnet@dd3302a90e4915b96f213fd2095a73e141548602
